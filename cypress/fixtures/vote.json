@@ -1,0 +1,34 @@
+{
+  "T": [
+    {
+      "number": 1,
+      "id": "123123123",
+      "vote": {
+        "type": "random",
+        "random": "good",
+        "comment": null
+      }
+    }
+  ],
+  "S": [
+    {
+      "number": 2,
+      "id": "01204482",
+      "vote": {
+        "type": "custom",
+        "custom": [
+          4,
+          4,
+          3,
+          5,
+          5,
+          3
+        ],
+        "comment": null
+      }
+    }
+  ],
+  "A": [
+    {}
+  ]
+}
